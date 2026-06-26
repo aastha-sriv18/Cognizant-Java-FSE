@@ -1,0 +1,41 @@
+body{
+
+    font-family: Arial;
+
+}
+
+nav{
+
+    background-color:#282c34;
+    padding:15px;
+
+}
+
+nav a{
+
+    color:white;
+    text-decoration:none;
+    margin-right:20px;
+    font-size:18px;
+
+}
+
+.container{
+
+    margin:20px;
+
+}
+
+.card{
+
+    border:1px solid gray;
+    border-radius:8px;
+    padding:20px;
+    margin:20px;
+}
+
+li{
+
+    margin:10px 0;
+
+}
