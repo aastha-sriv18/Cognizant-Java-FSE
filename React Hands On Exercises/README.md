@@ -8,38 +8,45 @@ This directory contains the complete source code for all React laboratory exerci
 React Hands-On Exercises/
 │
 ├── Exercise1/
+│   └── myfirstreact
 ├── Exercise2/
+│   └── studentapp
 ├── Exercise3/
+│   └── scorecalculatorapp
 ├── Exercise4/
+│   └── blogapp
 ├── Exercise5/
+│   └── cohortstracker
 ├── Exercise6/
-├── Exercise7/
-├── Exercise8/
+│   └── trainersapp
 ├── Exercise9/
+│   └── cricketapp
 ├── Exercise10/
+│   └── officespacerentalapp
 ├── Exercise11/
+│   └── eventexamplesapp
 ├── Exercise12/
+│   └── ticketbookingapp
 ├── Exercise13/
+│   └── bloggerapp
 └── README.md
 ```
 
 ## Exercises
 
-| Exercise    | Topic                      | Concepts Covered                                             |
-| ----------- | -------------------------- | ------------------------------------------------------------ |
-| Exercise 1  | React Environment Setup    | Create React App, Project Structure, Functional Component    |
-| Exercise 2  | React Components           | Functional Components, Class Components, Component Rendering |
-| Exercise 3  | React Styling              | CSS, CSS Modules, Inline Styling                             |
-| Exercise 4  | Component Lifecycle        | componentDidMount(), componentDidCatch(), API Integration    |
-| Exercise 5  | React Router               | BrowserRouter, Routes, Route, Link, useParams                |
-| Exercise 6  | ES6 Features               | Arrow Functions, Destructuring, Spread Operator, map()       |
-| Exercise 7  | JSX                        | JSX Syntax, JavaScript Expressions, Inline CSS               |
-| Exercise 8  | Event Handling             | Synthetic Events, Event Binding, Forms                       |
-| Exercise 9  | Conditional Rendering      | Login/Logout, Element Variables, Conditional UI              |
-| Exercise 10 | List Rendering             | map(), Keys, Rendering Multiple Components                   |
-| Exercise 11 | Office Space Rental App    | JSX, Objects, Lists, Conditional Styling                     |
-| Exercise 12 | Blogger Application        | Conditional Rendering, Lists, Keys, map()                    |
-| Exercise 13 | Ticket Booking Application | Conditional Rendering, State Management, Login & Logout      |
+| Exercise | Application | Concepts Covered |
+|-----------|-------------|------------------|
+| Exercise 1 | **myfirstreact** | React Environment Setup, Create React App, Functional Components |
+| Exercise 2 | **studentapp** | React Components, Component Composition, Props |
+| Exercise 3 | **scorecalculatorapp** | Functional Components, Props, CSS Styling |
+| Exercise 4 | **blogapp** | Component Lifecycle Methods (`componentDidMount()`, `componentDidCatch()`) |
+| Exercise 5 | **cohortstracker** | CSS Modules, Inline Styling, Component Styling |
+| Exercise 6 | **trainersapp** | React Router, Navigation, URL Parameters (`useParams`) |
+| Exercise 9 | **cricketapp** | ES6 Features, Arrow Functions, Destructuring, `map()`, Spread Operator |
+| Exercise 10 | **officespacerentalapp** | JSX, Rendering Lists, Inline CSS, Conditional Styling |
+| Exercise 11 | **eventexamplesapp** | Event Handling, Synthetic Events, State Updates, Forms |
+| Exercise 12 | **ticketbookingapp** | Conditional Rendering, State Management, Login & Logout |
+| Exercise 13 | **bloggerapp** | Conditional Rendering, List Rendering, Keys, `map()`, Multiple Components |
 
 ## Technologies Used
 

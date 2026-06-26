@@ -22,21 +22,19 @@ Every experiment document includes:
 
 ## Available Documentation
 
-| Exercise    | Documentation                   |
-| ----------- | ------------------------------- |
-| Exercise 1  | React Environment Setup         |
-| Exercise 2  | React Components                |
-| Exercise 3  | React Styling                   |
-| Exercise 4  | Component Lifecycle             |
-| Exercise 5  | React Router                    |
-| Exercise 6  | ES6 Features                    |
-| Exercise 7  | JSX                             |
-| Exercise 8  | Event Handling                  |
-| Exercise 9  | Conditional Rendering           |
-| Exercise 10 | List Rendering                  |
-| Exercise 11 | Office Space Rental Application |
-| Exercise 12 | Blogger Application             |
-| Exercise 13 | Ticket Booking Application      |
+| Exercise | Application | Topics Covered |
+|-----------|-------------|----------------|
+| Exercise 1 | myfirstreact | React Environment Setup |
+| Exercise 2 | studentapp | React Components |
+| Exercise 3 | scorecalculatorapp | Functional Components and Styling |
+| Exercise 4 | blogapp | Component Lifecycle Methods |
+| Exercise 5 | cohortstracker | CSS Modules and Styling |
+| Exercise 6 | trainersapp | React Router |
+| Exercise 9 | cricketapp | ES6 Features |
+| Exercise 10 | officespacerentalapp | JSX |
+| Exercise 11 | eventexamplesapp | Event Handling |
+| Exercise 12 | ticketbookingapp | Conditional Rendering |
+| Exercise 13 | bloggerapp | Conditional Rendering, Lists and Keys |
 
 ## Purpose
 
