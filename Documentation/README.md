@@ -1,49 +1,100 @@
 # Documentation
 
-This directory contains the documentation prepared for each React laboratory exercise completed as part of the **Cognizant Java Full Stack Engineer (FSE) React Program**.
+This directory contains the documentation for all the **Java Full Stack Engineering (FSE) Hands-On Exercises** completed as part of the learning program. Each exercise is accompanied by a detailed report prepared in Microsoft Word format.
 
-Each document serves as the laboratory record and provides both theoretical background and implementation details.
+---
+
+## Folder Structure
+
+```text
+Documentation/
+│
+├── React Documentation/
+│   ├── Exercise1.docx
+│   ├── Exercise2.docx
+│   ├── Exercise3.docx
+│   ├── Exercise4.docx
+│   ├── Exercise5.docx
+│   ├── Exercise6.docx
+│   ├── Exercise9.docx
+│   ├── Exercise10.docx
+│   ├── Exercise11.docx
+│   ├── Exercise12.docx
+│   └── Exercise13.docx
+│
+├── Git Documentation/
+│   ├── Exercise1.docx
+│   ├── Exercise2.docx
+│   ├── Exercise3.docx
+│   ├── Exercise4.docx
+│   └── Exercise5.docx
+│
+└── README.md
+```
+
+---
+
+## React Documentation
+
+The **React Documentation** folder contains reports for all React Hands-On Exercises.
+
+### Exercises Included
+
+| Exercise | Title |
+|----------|-------|
+| Exercise 1 | My First React Application |
+| Exercise 2 | Student Management App |
+| Exercise 3 | Score Calculator App |
+| Exercise 4 | Blog Application |
+| Exercise 5 | Cohorts Tracker |
+| Exercise 6 | Trainers Application (React Router) |
+| Exercise 9 | Cricket Application (ES6 Features) |
+| Exercise 10 | Office Space Rental Application (JSX) |
+| Exercise 11 | Event Examples Application |
+| Exercise 12 | Ticket Booking Application (Conditional Rendering) |
+| Exercise 13 | Blogger Application (Conditional Rendering, Lists & Keys) |
+
+---
+
+## Git Documentation
+
+The **Git Documentation** folder contains reports for all Git Hands-On Exercises.
+
+### Exercises Included
+
+| Exercise | Title |
+|----------|-------|
+| Exercise 1 | Git Configuration and Repository Setup |
+| Exercise 2 | Using `.gitignore` |
+| Exercise 3 | Branching and Merging |
+| Exercise 4 | Merge Conflict Resolution |
+| Exercise 5 | Clean Up and Push to Remote Repository |
+
+---
 
 ## Contents of Each Document
 
-Every experiment document includes:
+Each exercise report includes:
 
-* Experiment Title
-* Aim
-* Objectives
-* Theory
-* Prerequisites
-* Procedure
-* Source Code
-* Expected Output
-* Result
-* Conclusion (where applicable)
-* Viva Questions
+- Experiment Title
+- Objectives
+- Theory
+- Procedure
+- Source Code (React Exercises)
+- Git Commands (Git Exercises)
+- Expected Output
+- Result
 
-## Available Documentation
-
-| Exercise | Application | Topics Covered |
-|-----------|-------------|----------------|
-| Exercise 1 | myfirstreact | React Environment Setup |
-| Exercise 2 | studentapp | React Components |
-| Exercise 3 | scorecalculatorapp | Functional Components and Styling |
-| Exercise 4 | blogapp | Component Lifecycle Methods |
-| Exercise 5 | cohortstracker | CSS Modules and Styling |
-| Exercise 6 | trainersapp | React Router |
-| Exercise 9 | cricketapp | ES6 Features |
-| Exercise 10 | officespacerentalapp | JSX |
-| Exercise 11 | eventexamplesapp | Event Handling |
-| Exercise 12 | ticketbookingapp | Conditional Rendering |
-| Exercise 13 | bloggerapp | Conditional Rendering, Lists and Keys |
+---
 
 ## Purpose
 
-The documentation is intended to:
+The documentation serves as a comprehensive record of all hands-on exercises completed during the Java Full Stack Engineering program. It provides both theoretical understanding and practical implementation details for future reference and academic evaluation.
 
-* Support laboratory submissions.
-* Explain the concepts implemented in each exercise.
-* Provide step-by-step procedures.
-* Demonstrate the expected output of each application.
-* Serve as a reference for React fundamentals and modern JavaScript features.
+---
 
-The corresponding source code for every experiment is available in the **React Hands-On Exercises** directory.
+## Author
+
+**Aastha Srivastava**
+
+Java Full Stack Engineering (FSE) Hands-On Exercises

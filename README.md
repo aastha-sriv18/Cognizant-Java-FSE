@@ -7,18 +7,25 @@ This repository contains my solutions for the **Cognizant Java Full Stack Engine
 ```text
 Java FSE Exercises/
 │
-├── React Hands-On Exercises/
+├── React Hands On Exercises/
 │   ├── Exercise1/
 │   ├── Exercise2/
 │   ├── ...
 │   ├── Exercise13/
 │   └── README.md
 │
+│
+├── Git Hands On Exercises/
+│   ├── Exercise1/
+│   ├── Exercise2/
+│   ├── Exercise3/
+│   ├── Exercise4/
+│   ├── Exercise5/
+│   └── README.md
+│
 ├── Documentation/
-│   ├── Exercise1.docx
-│   ├── Exercise2.docx
-│   ├── ...
-│   ├── Exercise13.docx
+│   ├── React Documentation/
+│   ├── Git Documentation/
 │   └── README.md
 │
 └── README.md
@@ -32,9 +39,53 @@ This repository is organized into two main sections:
 
 Contains the complete source code for all React laboratory exercises. Each exercise focuses on a specific React concept and is organized in a separate folder with its own README.
 
+#### Exercises Included
+
+| Exercise | Application |
+|----------|-------------|
+| Exercise 1 | My First React Application |
+| Exercise 2 | Student Management App |
+| Exercise 3 | Score Calculator App |
+| Exercise 4 | Blog Application |
+| Exercise 5 | Cohorts Tracker |
+| Exercise 6 | Trainers Application (React Router) |
+| Exercise 9 | Cricket Application (ES6 Features) |
+| Exercise 10 | Office Space Rental Application (JSX) |
+| Exercise 11 | Event Examples Application |
+| Exercise 12 | Ticket Booking Application (Conditional Rendering) |
+| Exercise 13 | Blogger Application (Lists, Keys & Conditional Rendering) |
+
+---
+
+### Git Hands-On Exercises
+
+The Git section demonstrates practical usage of Git commands and version control workflows.
+
+#### Exercises Included
+
+| Exercise | Topic |
+|----------|-------|
+| Exercise 1 | Git Configuration & Repository Setup |
+| Exercise 2 | Using .gitignore |
+| Exercise 3 | Branching and Merging |
+| Exercise 4 | Merge Conflict Resolution |
+| Exercise 5 | Remote Repository Synchronization |
+
+---
+
 ### Documentation
 
-Contains the documentation prepared for each experiment, including objectives, theory, procedure, source code, expected output, results, and other supporting material.
+A dedicated documentation section contains Word reports for every hands-on exercise.
+
+Each document includes:
+
+- Objectives
+- Theory
+- Procedure
+- Source Code
+- Commands Used (Git Exercises)
+- Expected Output
+- Result
 
 ## Topics Covered
 
@@ -61,41 +112,41 @@ Contains the documentation prepared for each experiment, including objectives, t
 
 ## Technologies Used
 
-* React.js
-* JavaScript (ES6)
-* JSX
-* HTML5
-* CSS3
-* React Router DOM
-* Node.js
-* npm
-* Visual Studio Code
+### Frontend
+
+- ReactJS
+- JSX
+- JavaScript (ES6)
+- HTML5
+- CSS3
+
+### Version Control
+
+- Git
+- GitHub
+
+### Development Tools
+
+- Visual Studio Code
+- Node.js
+- npm
 
 ## How to Run an Exercise
 
-1. Navigate to the desired exercise folder.
-
-```bash
-cd "React Hands-On Exercises/ExerciseX/<project-folder>"
-```
-
-2. Install dependencies.
+1. Navigate to any React application directory and execute:
 
 ```bash
 npm install
-```
-
-3. Start the React development server.
-
-```bash
 npm start
 ```
 
-4. Open your browser and visit:
+2. The application will be available at:
 
-```text
+```
 http://localhost:3000
 ```
+
+---
 
 ## Purpose
 

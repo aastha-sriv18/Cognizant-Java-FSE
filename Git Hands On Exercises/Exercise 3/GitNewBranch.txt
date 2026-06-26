@@ -1,0 +1,5 @@
+This file represents the new branch.
+
+Feature Added:
+- Login Module
+- Dashboard Module
